@@ -1,0 +1,28 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50rem; 
+  }
+.button {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+    border: 0px;
+    background: rgba(0, 0, 0, 0);
+}   
+
+.scrore {
+    text-decoration-color: rgb(18, 194, 2);
+}
+.counter {
+    display: flex;
+    justify-content: space-around;
+    height: 5rem;
+
+}
+
+.box {
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 7%, rgb(122, 68, 112) 100%);
+}
